@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model API</title>
+</head>
+<body>
+    <h2>Image Prediction</h2>
+    <form id="predict-form" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    <h2>Result</h2>
+    <pre id="result"></pre>
+
+    <script>
+        document.getElementById('predict-form').onsubmit = function(event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            console.log(formData);
+    
+            fetch('http://127.0.0.1:5000/predict', {  // Update the URL to include the full path
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').textContent = JSON.stringify(data, null, 2);
+            })
+            .catch(error => console.error('Error:', error));  // Add error handling
+};
+    </script>
+</body>
+</html>

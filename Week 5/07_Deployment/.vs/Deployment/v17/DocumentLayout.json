@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C881EB0-5AA1-4715-8ED2-4813CEA9F4F5}|Deployment.csproj|c:\\users\\jens.baetens3\\onedrive - odisee\\lesmateriaal\\machinelearning\\lessen\\03_computervisie\\07_deployment\\deployment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C881EB0-5AA1-4715-8ED2-4813CEA9F4F5}|Deployment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:05:28.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
