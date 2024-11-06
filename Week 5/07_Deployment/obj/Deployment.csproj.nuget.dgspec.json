@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\Deployment.csproj": {}
+    "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\2425\\Machine Learning\\Leerstof_Groep2\\Week 5\\07_Deployment\\Deployment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\Deployment.csproj": {
+    "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\2425\\Machine Learning\\Leerstof_Groep2\\Week 5\\07_Deployment\\Deployment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\Deployment.csproj",
+        "projectUniqueName": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\2425\\Machine Learning\\Leerstof_Groep2\\Week 5\\07_Deployment\\Deployment.csproj",
         "projectName": "Deployment",
-        "projectPath": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\Deployment.csproj",
+        "projectPath": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\2425\\Machine Learning\\Leerstof_Groep2\\Week 5\\07_Deployment\\Deployment.csproj",
         "packagesPath": "C:\\Users\\jens.baetens3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\Lesmateriaal\\MachineLearning\\Lessen\\03_Computervisie\\07_Deployment\\Deployment\\obj\\",
+        "outputPath": "C:\\Users\\jens.baetens3\\OneDrive - ODISEE\\2425\\Machine Learning\\Leerstof_Groep2\\Week 5\\07_Deployment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jens.baetens3\\AppData\\Roaming\\NuGet\\NuGet.Config",
